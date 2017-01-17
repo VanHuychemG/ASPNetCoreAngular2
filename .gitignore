@@ -1,0 +1,13 @@
+﻿﻿.vs/
+bin/
+obj/
+
+*.suo
+*.user
+
+ASPNetCoreAngular2/wwwroot/lib/
+ASPNetCoreAngular2/node_modules
+
+#remove generated files
+*.js
+*.map
